@@ -8,7 +8,7 @@
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
     "react-scripts": "1.1.5",
-    "electron": "^2.0.8"
+    "electron": "^7.2.4"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -20,7 +20,7 @@
     "electron-pack": "build --win --macos -c.extraMetadata.main=build/Main.js"
   },
   "devDependencies": {
-    "electron": "^2.0.18"
+    "electron": "^7.2.4"
   },
   "build": {
     "files": [
